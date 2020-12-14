@@ -1,0 +1,2 @@
+# TrashLog
+Mac, Folder Action
